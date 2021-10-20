@@ -1,5 +1,4 @@
 <h1 align="center">Conversor de Moedas</h1>
-<h2>Desenvolvido com ReactJS</h2>
 
 ## Tecnologias Usandas no Projeto
 - HTML
