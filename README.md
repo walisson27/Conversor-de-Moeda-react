@@ -4,7 +4,5 @@
 - HTML
 - CSS
 - ReactJS
-- Bootstrap
- 
 
 - [Conversor de Moeda](https://naughty-knuth-91a450.netlify.app/)
