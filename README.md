@@ -1,17 +1,48 @@
-<h1 align="center">Conversor de Moedas</h1>
+h1 align="center">
+    Conversor de Moedas
+</h1>
 
-## Tecnologias Usandas no Projeto
+<h4 align="center">
+  🚀 Conversor de Moedas Desenvolvido com ReactJS
+</h4>
+
+<p align="center">
+  <a href="https://naughty-knuth-91a450.netlify.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Sobre Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+<br>
+
+<p align="center">
+  <img src="">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 - HTML
 - CSS
 - ReactJS
 
-- Link do Projeto [Conversor de Moeda](https://naughty-knuth-91a450.netlify.app/)
+## 💻 Projeto
 
+api da API Currency Converter que recebe os valores das moedas em tempo real e efetua os cálculos.
 
-## Como Iniciar Projeto
-  
-- 1 npm install
-  
-- 2 npm start
-  
-- 3 [http://localhost:3000](http://localhost:3000)
+<br>
+
+## 💻 Instalação
+
+Para iniciar o **Projeto** utilize os comandos:
+
+```bash
+npm install
+npm start
+```
+
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080`.
+
+Feito por [Walisson Souza](https://github.com/walisson27)
